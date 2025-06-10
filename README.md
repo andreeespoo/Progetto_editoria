@@ -1,5 +1,5 @@
 # I Giochi della II Olimpiade – Parigi 1900
-
+Progetto editoriale digitale del Prof Ceravolo
 Un progetto editoriale digitale che racconta la storia dei Giochi Olimpici di Parigi 1900.
 
 ## Descrizione del progetto
