@@ -1,0 +1,71 @@
+gestione_documentale:
+  title: "Second Olympic Games"
+  author:
+    - "Andrea Esposito"
+  date: "2025-06-10"
+  abstract: "A digital compendium about the 2nd Olympic Games, exploring social and cultural aspects."
+  lang: "en"
+  bibliography: "bibliography.bib"
+  csl: "ieee.csl"
+  document_class: "book"
+  input_files:
+    - "second_olympics.md"
+  output_formats:
+    - html
+    - epub
+    - pdf
+
+archiviazione:
+  dublin_core:
+    title: "Second Olympic Games"
+    creator:
+      - "Andrea Esposito"
+    subject:
+      - "Olympics"
+      - "Sports History"
+    description: "Digital compendium about the 2nd Olympic Games, with cultural and social analysis."
+    publisher: "Sports Documentation Center"
+    contributor:
+      - "Archivists"
+    date: "2025-06-10"
+    type: "Book"
+    format: "text/markdown"
+    identifier: "DOI:10.2025/sports001"
+    language: "en"
+    coverage: "International"
+    rights: "CC BY-NC 4.0"
+
+distribuzione:
+  onix:
+    title: "Second Olympic Games"
+    contributor:
+      primary_author: "Andrea Esposito"
+      other_authors:
+        - "Sports Documentation Center"
+    publisher: "Sports Documentation Center"
+    publication_date: "2025-06-10"
+    audience: "Researchers, sports enthusiasts"
+    format:
+      type: "Digital"
+      file_format: "epub"
+    price:
+      amount: "0"
+      currency: "EUR"
+
+  schema_org:
+    "@context": "https://schema.org"
+    "@type": "Book"
+    name: "Second Olympic Games"
+    author:
+      - "@type": "Person"
+        name: "Andrea Esposito"
+    datePublished: "2025-06-10"
+    publisher:
+      "@type": "Organization"
+      name: "Sports Documentation Center"
+    genre:
+      - "Olympics"
+      - "Sports History"
+    language: "en"
+    inLanguage: "en"
+    format: "text/markdown"

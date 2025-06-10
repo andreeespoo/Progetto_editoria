@@ -1,0 +1,42 @@
+{
+    "Product": {
+        "Title": "Second Olympic Games",
+        "Contributor": {
+            "PrimaryAuthor": "Andrea Esposito",
+            "OtherAuthors": [
+                "Sports Documentation Center"
+            ]
+        },
+        "Publisher": "Sports Documentation Center",
+        "PublicationDate": "2025-06-10",
+        "ISBN": {
+            "title": "Second Olympic Games",
+            "contributor": {
+                "primary_author": "Andrea Esposito",
+                "other_authors": [
+                    "Sports Documentation Center"
+                ]
+            },
+            "publisher": "Sports Documentation Center",
+            "publication_date": "2025-06-10",
+            "audience": "Researchers, sports enthusiasts",
+            "format": {
+                "type": "Digital",
+                "file_format": "epub"
+            },
+            "price": {
+                "amount": "0",
+                "currency": "EUR"
+            }
+        },
+        "Audience": "Researchers, sports enthusiasts",
+        "Format": {
+            "type": "Digital",
+            "file_format": "epub"
+        },
+        "Price": {
+            "amount": "0",
+            "currency": "EUR"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Second Olympic Games",
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Andrea Esposito"
+        }
+    ],
+    "datePublished": "2025-06-10",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Sports Documentation Center"
+    },
+    "genre": [
+        "Olympics",
+        "Sports History"
+    ],
+    "language": "en",
+    "inLanguage": "en",
+    "format": "text/markdown"
+}
